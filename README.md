@@ -35,6 +35,8 @@ Neutral habitats are destroyed and biodiversity is decreased.
 Deforestation contributes to global warming by reducing carbon sequestration.
 Eco-friendly transportation solutions should be developed.
 
+
+
 ![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/levent.png)
 Output of the model for this evolution:
 
@@ -42,6 +44,8 @@ Forest areas were converted into residential zones.
 Natural habitats are destroyed and biodiversity is decreased.
 Deforestation contributes to global warming by reducing carbon sequestration.
 Sustainable urban planning should be implemented.
+
+
 
 ![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/adana.png)
 Annual crop areas remained unchanged. The area has been protected and no significant changes occurred.
