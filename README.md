@@ -35,7 +35,7 @@ Neutral habitats are destroyed and biodiversity is decreased.
 Deforestation contributes to global warming by reducing carbon sequestration.
 Eco-friendly transportation solutions should be developed.
 
-
+---
 
 ![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/levent.png)
 Output of the model for this evolution:
@@ -45,9 +45,10 @@ Natural habitats are destroyed and biodiversity is decreased.
 Deforestation contributes to global warming by reducing carbon sequestration.
 Sustainable urban planning should be implemented.
 
-
+---
 
 ![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/adana.png)
+Output of the model for this evolution:
 Annual crop areas remained unchanged. The area has been protected and no significant changes occurred.
 
 ## Confusion Matrix of the Best Model
