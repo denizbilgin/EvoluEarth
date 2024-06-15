@@ -15,6 +15,7 @@ Each pixel of each image scaled between 0 and 1 by dividing each pixels number w
 I've trained lots of models, you can see statistics of some training processes.
 ![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/training_statistics.png)
 
+
 The experiments with the highest validation accuracy (0.9689) used a learning rate of 4e-4, the ReLU activation function, and the Adamax optimizer. Epochs numbers are 38.
 The experiment with the shortest training time (25 minutes) used a learning rate of 3e-3, the SeLU activation function, and the Adam optimizer, but it also had the lowest validation accuracy (0.75).
 Overall, the table suggests that the best hyperparameter settings for this task are a learning rate of 4e-4, the ReLU activation function, and the Adamax optimizer.
@@ -30,22 +31,16 @@ When I trained models which is deeper and has more neurons, it became worse and 
 Output of the model for this evolution:
 
 Forest areas were converted into highways.
-
 Neutral habitats are destroyed and biodiversity is decreased.
-
 Deforestation contributes to global warming by reducing carbon sequestration.
-
 Eco-friendly transportation solutions should be developed.
 
 ![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/levent.png)
 Output of the model for this evolution:
 
 Forest areas were converted into residential zones.
-
 Natural habitats are destroyed and biodiversity is decreased.
-
 Deforestation contributes to global warming by reducing carbon sequestration.
-
 Sustainable urban planning should be implemented.
 
 ![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/adana.png)
