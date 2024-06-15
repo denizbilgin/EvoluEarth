@@ -26,22 +26,22 @@ Overall, the table suggests that the best hyperparameter settings for this task 
 When I trained models which is deeper and has more neurons, it became worse and worse. Models which are more shallow did better performance than deepers.
 
 ## Final Tests
-IMAAAAGEEEE
+![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/amazon.png)
 Output of the model for this evolution:
 Forest areas were converted into highways.
 Neutral habitats are destroyed and biodiversity is decreased.
 Deforestation contributes to global warming by reducing carbon sequestration.
 Eco-friendly transportation solutions should be developed.
 
-IMAAAGEEEE
+![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/levent.png)
 Output of the model for this evolution:
 Forest areas were converted into residential zones.
 Natural habitats are destroyed and biodiversity is decreased.
 Deforestation contributes to global warming by reducing carbon sequestration.
 Sustainable urban planning should be implemented.
 
-IMAAAGEEEEE
+![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/adana.png)
 Annual crop areas remained unchanged. The area has been protected and no significant changes occurred.
 
 ## Confusion Matrix of the Best Model
-IMAAAGEEEE
+![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/cm.png)
