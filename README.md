@@ -9,7 +9,7 @@ I found this dataset from Kaggle. Name of dataset was "EuroSat Dataset". There a
 
 ## Image Preprocessing
 Each pixel of each image scaled between 0 and 1 by dividing each pixels number with 255. I've used two types of augmentation. First of them is horizontal flip and the second one is vertical flip. I seperated %25 of dataset as validation and rest of them are training data.
-![image](https://github.com/denizbilgin/EvoluEarth/imgs/augmented_images.png)
+![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/augmented_images.png)
 
 ## Training
 I've trained lots of models, you can see statistics of some training processes.
