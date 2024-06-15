@@ -28,16 +28,24 @@ When I trained models which is deeper and has more neurons, it became worse and 
 ## Final Tests
 ![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/amazon.png)
 Output of the model for this evolution:
+
 Forest areas were converted into highways.
+
 Neutral habitats are destroyed and biodiversity is decreased.
+
 Deforestation contributes to global warming by reducing carbon sequestration.
+
 Eco-friendly transportation solutions should be developed.
 
 ![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/levent.png)
 Output of the model for this evolution:
+
 Forest areas were converted into residential zones.
+
 Natural habitats are destroyed and biodiversity is decreased.
+
 Deforestation contributes to global warming by reducing carbon sequestration.
+
 Sustainable urban planning should be implemented.
 
 ![image](https://github.com/denizbilgin/EvoluEarth/blob/main/imgs/adana.png)
