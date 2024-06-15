@@ -334,5 +334,3 @@ if __name__ == '__main__':
         color_mode=COLOR_MODE
     )
     plot_confusion_matrix(model, test_generator)
-
-# rapor + sunum hazırla
